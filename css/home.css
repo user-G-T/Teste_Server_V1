@@ -42,10 +42,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 550px;
-    background-image: url(https://th.bing.com/th/id/R.01556d9f0da7e3728bb42ffc46ee1e09?rik=r6ezS1E56Ppmsw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-4fBptx6S8R4%2fToyreMY_NPI%2fAAAAAAAAABM%2f-D7cFQFfRw8%2fs1600%2fGEDC0828.JPG&ehk=Jv99Ot%2bF6WefjJzyLrJzXHg4t9kNb%2b3A340LXA8%2bFOs%3d&risl=&pid=ImgRaw&r=0);
-    background-position: center;
-    background-size: cover;
+    height: 50px;
 
 
 }
